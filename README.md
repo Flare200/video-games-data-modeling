@@ -52,7 +52,7 @@ See `videogames.ipynb` for a techincal analysis or the link below for a more gen
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@elijah_89308/3b3a3fa91f57).
+The main findings of the code can be found at the post available [here](https://medium.com/@elijah_89308/score-a-statistical-journey-into-the-heart-of-video-game-sales-3b3a3fa91f57).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
